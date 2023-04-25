@@ -59,5 +59,5 @@ Handle the following custom conversion specifier:
 Printf Project
 
 #Project Contributors:
-- Mohamed KADI
-- Souhail KADIRI 
+- [Mohamed KADI](/handskadi/)
+- [Souhail KADIRI](/SHLKADIRI/) 
