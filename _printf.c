@@ -2,7 +2,7 @@
 
 void print_buffer(char buffer[], int *buff_ind);
 /**
- * _printf - MK - Printf function
+ * _printf - MK Printf function
  * @format: format.
  * Return: Printed chars.
  */
